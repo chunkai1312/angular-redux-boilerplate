@@ -1,0 +1,17 @@
+.appIcon:hover {
+  cursor: pointer; 
+}
+
+.appIcon:focus {
+  outline: none;
+  border: 0;
+}
+
+.appIcon > img {
+  width: 40px;
+  height: 40px;
+}
+
+.appIcon > span {
+  margin: 0 0 0 14px;
+}
